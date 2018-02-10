@@ -1,0 +1,3 @@
+name=Doom
+icon=icon.png
+run=doom @args
