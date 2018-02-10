@@ -13,7 +13,7 @@
 By default **doomlink** works with a keyboard, it should also work with an Xbox controller and a Steam Controller (although I have only tested a wired Xbox 360 controller.)
 
 ## Configuration
-If you wish to make changes and access the *Chocolate Doom* setup menu simply edit "*toc.txt*" and replace `doom` with `doom-setup` and change it back when you have saved the setup. This is easier done [over SSH]() to save keep messing about with a USB stick.
+If you wish to make changes and access the *Chocolate Doom* setup menu simply edit "*toc.txt*" and replace `doom` with `doom-setup` and change it back when you have saved the setup. This is easier done [over SSH](https://github.com/ValveSoftware/steamlink-sdk#ssh-access) to save keep messing about with a USB stick.
 
 ----
 
