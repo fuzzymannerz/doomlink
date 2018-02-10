@@ -1,6 +1,8 @@
 # doomlink
 **doomlink** is a vanilla *Doom*, *[Chocolate Doom](https://www.chocolate-doom.org)* based native app port for the Steam Link.
 
+![](https://raw.githubusercontent.com/fuzzymannerz/doomlink/master/steamlink/apps/doomlink/icon.png)
+
 ## Installation
   - [Download the archive](https://github.com/fuzzymannerz/doomlink/archive/master.zip) and extract it.
   - Put the "*steamlink*" folder onto the root of a *FAT32* formatted USB stick.
